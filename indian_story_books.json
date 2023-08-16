@@ -1,0 +1,504 @@
+[{
+        "book_id": 1,
+        "title": "The Jungle Book",
+        "author": "Rudyard Kipling",
+        "genre": "Children's Fiction",
+        "year": 1894,
+        "language": "English",
+        "setting": "Indian Jungle",
+        "description": "A collection of stories about animals living in the Indian jungle."
+    },
+    {
+        "book_id": 2,
+        "title": "Malgudi Days",
+        "author": "R.K. Narayan",
+        "genre": "Short Stories",
+        "year": 1943,
+        "language": "English",
+        "setting": "Malgudi (Fictional Indian Town)",
+        "description": "A collection of short stories set in the fictional town of Malgudi."
+    },
+    {
+        "book_id": 3,
+        "title": "The God of Small Things",
+        "author": "Arundhati Roy",
+        "genre": "Fiction",
+        "year": 1997,
+        "language": "English",
+        "setting": "Kerala, India",
+        "description": "A novel exploring the lives of twins in Kerala and their experiences."
+    },
+    {
+        "book_id": 4,
+        "title": "Panchatantra",
+        "author": "Vishnu Sharma",
+        "genre": "Fables",
+        "year": 200,
+        "language": "Sanskrit",
+        "setting": "Ancient India",
+        "description": "A collection of animal fables with moral lessons, originating in ancient India."
+    },
+    {
+        "book_id": 5,
+        "title": "The White Tiger",
+        "author": "Aravind Adiga",
+        "genre": "Fiction",
+        "year": 2008,
+        "language": "English",
+        "setting": "Modern India",
+        "description": "A novel depicting the life of a poor Indian driver who becomes an entrepreneur."
+    },
+    {
+        "book_id": 6,
+        "title": "Midnight's Children",
+        "author": "Salman Rushdie",
+        "genre": "Magical Realism",
+        "year": 1981,
+        "language": "English",
+        "setting": "India",
+        "description": "A novel tracing the lives of individuals born at the moment of India's independence."
+    },
+    {
+        "book_id": 7,
+        "title": "Raja Rasalu and Other Stories",
+        "author": "Flora Annie Steel",
+        "genre": "Folktales",
+        "year": 1894,
+        "language": "English",
+        "setting": "Indian Folklore",
+        "description": "A collection of Indian folktales and stories."
+    },
+    {
+        "book_id": 8,
+        "title": "Untouchable",
+        "author": "Mulk Raj Anand",
+        "genre": "Fiction",
+        "year": 1935,
+        "language": "English",
+        "setting": "India",
+        "description": "A novel depicting the life and struggles of an untouchable boy in India."
+    },
+    {
+        "book_id": 9,
+        "title": "Sita: An Illustrated Retelling of the Ramayana",
+        "author": "Devdutt Pattanaik",
+        "genre": "Mythology",
+        "year": 2013,
+        "language": "English",
+        "setting": "Ancient India",
+        "description": "A retelling of the epic Ramayana, focusing on the character of Sita."
+    },
+    {
+        "book_id": 10,
+        "title": "The Inheritance of Loss",
+        "author": "Kiran Desai",
+        "genre": "Fiction",
+        "year": 2006,
+        "language": "English",
+        "setting": "Himalayas, India",
+        "description": "A novel exploring the lives of characters in a Himalayan village."
+    },
+    {
+        "book_id": 11,
+        "title": "My Friend Flicka",
+        "author": "Ruskin Bond",
+        "genre": "Children's Fiction",
+        "year": 1954,
+        "language": "English",
+        "setting": "Himalayan Foothills, India",
+        "description": "A story about a young boy and his relationship with a horse in the Indian hills."
+    },
+    {
+        "book_id": 12,
+        "title": "The Guide",
+        "author": "R.K. Narayan",
+        "genre": "Fiction",
+        "year": 1958,
+        "language": "English",
+        "setting": "Malabar, India",
+        "description": "A novel about a man who becomes a spiritual guide in a small town."
+    },
+    {
+        "book_id": 13,
+        "title": "Malgudi Schooldays",
+        "author": "R.K. Narayan",
+        "genre": "Children's Fiction",
+        "year": 1942,
+        "language": "English",
+        "setting": "Malgudi (Fictional Indian Town)",
+        "description": "A collection of stories about the lives of schoolchildren in Malgudi."
+    },
+    {
+        "book_id": 14,
+        "title": "The Mahabharata",
+        "author": "Vyasa",
+        "genre": "Epic",
+        "year": 1,
+        "language": "Sanskrit",
+        "setting": "Ancient India",
+        "description": "One of the longest epic poems, narrating the story of the Mahabharata war."
+    },
+    {
+        "book_id": 15,
+        "title": "The Room on the Roof",
+        "author": "Ruskin Bond",
+        "genre": "Young Adult Fiction",
+        "year": 1956,
+        "language": "English",
+        "setting": "Himalayan Foothills, India",
+        "description": "A novel about a young boy's life in the hills of India."
+    },
+    {
+        "book_id": 16,
+        "title": "The Great Indian Novel",
+        "author": "Shashi Tharoor",
+        "genre": "Satire",
+        "year": 1989,
+        "language": "English",
+        "setting": "India",
+        "description": "A satirical novel that reimagines the Indian epic Mahabharata."
+    },
+    {
+        "book_id": 17,
+        "title": "The Palace of Illusions",
+        "author": "Chitra Banerjee Divakaruni",
+        "genre": "Mythological Fiction",
+        "year": 2008,
+        "language": "English",
+        "setting": "Ancient India",
+        "description": "A retelling of the Mahabharata from the perspective of Draupadi."
+    },
+    {
+        "book_id": 18,
+        "title": "Folktales of India",
+        "author": "A.K. Ramanujan",
+        "genre": "Folktales",
+        "year": 1991,
+        "language": "English",
+        "setting": "Indian Folklore",
+        "description": "A collection of folktales from various regions of India."
+    },
+    {
+        "book_id": 19,
+        "title": "The Serpent's Revenge: Unusual Tales from the Mahabharata",
+        "author": "Sudha Murty",
+        "genre": "Mythology",
+        "year": 2014,
+        "language": "English",
+        "setting": "Ancient India",
+        "description": "A collection of lesser-known tales from the Mahabharata."
+    },
+    {
+        "book_id": 20,
+        "title": "In Custody",
+        "author": "Anita Desai",
+        "genre": "Fiction",
+        "year": 1984,
+        "language": "English",
+        "setting": "Old Delhi, India",
+        "description": "A novel about a man's journey to capture the essence of a famous poet."
+    },
+    {
+        "book_id": 21,
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "genre": "Fiction",
+        "year": 2003,
+        "language": "English",
+        "setting": "Afghanistan",
+        "description": "Although not set in India, this novel explores themes of friendship, redemption, and cultural identity."
+    },
+    {
+        "book_id": 22,
+        "title": "Train to Pakistan",
+        "author": "Khushwant Singh",
+        "genre": "Fiction",
+        "year": 1956,
+        "language": "English",
+        "setting": "Punjab, India",
+        "description": "A novel set during the Partition of India, depicting the impact on a village."
+    },
+    {
+        "book_id": 23,
+        "title": "Two States: The Story of My Marriage",
+        "author": "Chetan Bhagat",
+        "genre": "Fiction",
+        "year": 2009,
+        "language": "English",
+        "setting": "India",
+        "description": "A novel about a couple from different Indian states navigating cultural differences."
+    },
+    {
+        "book_id": 24,
+        "title": "The Blue Umbrella",
+        "author": "Ruskin Bond",
+        "genre": "Children's Fiction",
+        "year": 1980,
+        "language": "English",
+        "setting": "Himalayan Foothills, India",
+        "description": "A story about a young girl and her treasured blue umbrella in the mountains."
+    },
+    {
+        "book_id": 25,
+        "title": "The Lowland",
+        "author": "Jhumpa Lahiri",
+        "genre": "Fiction",
+        "year": 2013,
+        "language": "English",
+        "setting": "Kolkata, India",
+        "description": "A novel spanning generations and continents, exploring the lives of two brothers."
+    },
+    {
+        "book_id": 26,
+        "title": "Shantaram",
+        "author": "Gregory David Roberts",
+        "genre": "Fiction",
+        "year": 2003,
+        "language": "English",
+        "setting": "Mumbai, India",
+        "description": "A novel based on the author's experiences as an escaped convict in Mumbai."
+    },
+    {
+        "book_id": 27,
+        "title": "The Glass Palace",
+        "author": "Amitav Ghosh",
+        "genre": "Historical Fiction",
+        "year": 2000,
+        "language": "English",
+        "setting": "Burma and India",
+        "description": "A novel spanning decades and continents, exploring the lives of characters in Burma and India."
+    },
+    {
+        "book_id": 28,
+        "title": "The Hungry Tide",
+        "author": "Amitav Ghosh",
+        "genre": "Fiction",
+        "year": 2004,
+        "language": "English",
+        "setting": "Sundarbans, India",
+        "description": "A novel set in the Sundarbans, depicting the lives of characters amidst nature and culture."
+    },
+    {
+        "book_id": 29,
+        "title": "English, August: An Indian Story",
+        "author": "Upamanyu Chatterjee",
+        "genre": "Fiction",
+        "year": 1988,
+        "language": "English",
+        "setting": "Madna, India",
+        "description": "A novel about an urban man's experiences in a small town during his civil service."
+    },
+    {
+        "book_id": 30,
+        "title": "Gitanjali",
+        "author": "Rabindranath Tagore",
+        "genre": "Poetry",
+        "year": 1910,
+        "language": "Bengali",
+        "setting": "India",
+        "description": "A collection of poems by the Nobel laureate, reflecting his spiritual and artistic vision."
+    },
+    {
+        "book_id": 31,
+        "title": "The Secret Garden",
+        "author": "Frances Hodgson Burnett",
+        "genre": "Children's Fiction",
+        "year": 1911,
+        "language": "English",
+        "setting": "Yorkshire, England (Though not Indian, this classic has a popular Indian adaptation)",
+        "description": "A novel about a girl discovering a hidden garden and its healing powers."
+    },
+    {
+        "book_id": 32,
+        "title": "Kanthapura",
+        "author": "Raja Rao",
+        "genre": "Fiction",
+        "year": 1938,
+        "language": "English",
+        "setting": "Kanthapura, India",
+        "description": "A novel depicting the impact of Gandhian principles on a village during the Indian freedom movement."
+    },
+    {
+        "book_id": 33,
+        "title": "Kim",
+        "author": "Rudyard Kipling",
+        "genre": "Adventure",
+        "year": 1901,
+        "language": "English",
+        "setting": "India",
+        "description": "A novel about an orphaned boy's adventures in India during the British Raj."
+    },
+    {
+        "book_id": 34,
+        "title": "The White Mughals",
+        "author": "William Dalrymple",
+        "genre": "History",
+        "year": 2002,
+        "language": "English",
+        "setting": "Colonial India",
+        "description": "A historical account of the cultural interactions between British and Indian elites during the 18th century."
+    },
+    {
+        "book_id": 35,
+        "title": "The Last Mughal: The Fall of a Dynasty",
+        "author": "William Dalrymple",
+        "genre": "History",
+        "year": 2006,
+        "language": "English",
+        "setting": "Colonial India",
+        "description": "A historical account of the Indian Rebellion of 1857 and the end of the Mughal dynasty."
+    },
+    {
+        "book_id": 36,
+        "title": "The Shadow Lines",
+        "author": "Amitav Ghosh",
+        "genre": "Fiction",
+        "year": 1988,
+        "language": "English",
+        "setting": "India and Bangladesh",
+        "description": "A novel exploring the interconnected lives of characters in India and Bangladesh."
+    },
+    {
+        "book_id": 37,
+        "title": "The Guide",
+        "author": "R.K. Narayan",
+        "genre": "Fiction",
+        "year": 1958,
+        "language": "English",
+        "setting": "Malabar, India",
+        "description": "A novel about a man who becomes a spiritual guide in a small town."
+    },
+    {
+        "book_id": 38,
+        "title": "The Discovery of India",
+        "author": "Jawaharlal Nehru",
+        "genre": "History",
+        "year": 1946,
+        "language": "English",
+        "setting": "India",
+        "description": "A historical work exploring India's rich cultural and political history."
+    },
+    {
+        "book_id": 39,
+        "title": "The Oath of the Vayuputras",
+        "author": "Amish Tripathi",
+        "genre": "Mythological Fiction",
+        "year": 2013,
+        "language": "English",
+        "setting": "Ancient India",
+        "description": "The final book in the Shiva Trilogy, a retelling of ancient Indian epics."
+    },
+    {
+        "book_id": 40,
+        "title": "The Rozabal Line",
+        "author": "Ashwin Sanghi",
+        "genre": "Thriller",
+        "year": 2007,
+        "language": "English",
+        "setting": "India",
+        "description": "A thriller involving the search for the tomb of Jesus Christ in India."
+    },
+    {
+        "book_id": 41,
+        "title": "The Village by the Sea",
+        "author": "Anita Desai",
+        "genre": "Young Adult Fiction",
+        "year": 1982,
+        "language": "English",
+        "setting": "Thul, India",
+        "description": "A novel about a young girl's determination to uplift her family's life in a fishing village."
+    },
+    {
+        "book_id": 42,
+        "title": "The Sculptor and the Sandman",
+        "author": "Pulkit Gupta",
+        "genre": "Fantasy",
+        "year": 2020,
+        "language": "English",
+        "setting": "Fictional World",
+        "description": "A fantasy novel exploring the magical journey of a sculptor and a sandman."
+    },
+    {
+        "book_id": 43,
+        "title": "The Forest of Enchantments",
+        "author": "Chitra Banerjee Divakaruni",
+        "genre": "Mythological Fiction",
+        "year": 2019,
+        "language": "English",
+        "setting": "Ancient India",
+        "description": "A retelling of the Ramayana from the perspective of Sita."
+    },
+    {
+        "book_id": 44,
+        "title": "The Zoya Factor",
+        "author": "Anuja Chauhan",
+        "genre": "Romantic Comedy",
+        "year": 2008,
+        "language": "English",
+        "setting": "Contemporary India",
+        "description": "A romantic comedy novel centered around a woman considered to be a lucky charm for the Indian cricket team."
+    },
+    {
+        "book_id": 45,
+        "title": "A Suitable Boy",
+        "author": "Vikram Seth",
+        "genre": "Fiction",
+        "year": 1993,
+        "language": "English",
+        "setting": "Post-Independence India",
+        "description": "A novel exploring the lives and relationships of characters in post-independence India."
+    },
+    {
+        "book_id": 46,
+        "title": "The Immortals of Meluha",
+        "author": "Amish Tripathi",
+        "genre": "Mythological Fiction",
+        "year": 2010,
+        "language": "English",
+        "setting": "Ancient India",
+        "description": "The first book in the Shiva Trilogy, a reimagining of the life of Lord Shiva."
+    },
+    {
+        "book_id": 47,
+        "title": "One Part Woman",
+        "author": "Perumal Murugan",
+        "genre": "Fiction",
+        "year": 2010,
+        "language": "Tamil",
+        "setting": "Rural Tamil Nadu, India",
+        "description": "A novel exploring the life of a childless couple and their struggles in a traditional society."
+    },
+    {
+        "book_id": 48,
+        "title": "The Ministry of Utmost Happiness",
+        "author": "Arundhati Roy",
+        "genre": "Fiction",
+        "year": 2017,
+        "language": "English",
+        "setting": "India",
+        "description": "A novel weaving together multiple narratives and characters across India."
+    },
+    {
+        "book_id": 49,
+        "title": "Delhi: A Novel",
+        "author": "Khushwant Singh",
+        "genre": "Fiction",
+        "year": 1990,
+        "language": "English",
+        "setting": "Delhi, India",
+        "description": "A novel depicting the history, culture, and society of Delhi."
+    },
+    {
+        "book_id": 50,
+        "title": "The Thirteenth Day: A Story of the Kurukshetra War",
+        "author": "Aditya Iyengar",
+        "genre": "Mythological Fiction",
+        "year": 2017,
+        "language": "English",
+        "setting": "Ancient India",
+        "description": "A retelling of the events of the thirteenth day of the Kurukshetra War from the Mahabharata."
+    }
+
+
+
+]
